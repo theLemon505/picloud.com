@@ -1,0 +1,41 @@
+.storage{
+    margin: 5%;
+    border: 10px solid #be4b59;
+    border-radius: 15px;
+    padding: 5%;
+    left: 0px;
+    right: 0px;
+    position: relative;
+    background-color: #fbfbfb;
+    text-align: center;
+}
+
+.hosting{
+    margin: 5%;
+    border: 10px solid #be4b59;
+    border-radius: 15px;
+    padding: 5%;
+    left: 0px;
+    right: 0px;
+    position: relative;
+    background-color: #fbfbfb;
+    text-align: center;
+}
+
+.custom{
+    margin: 5%;
+    border: 10px solid #be4b59;
+    border-radius: 15px;
+    padding: 5%;
+    left: 0px;
+    right: 0px;
+    position: relative;
+    background-color: #fbfbfb;
+    text-align: center;
+}
+
+.icon{
+    width:45%;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}

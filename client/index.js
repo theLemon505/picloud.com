@@ -1,6 +1,6 @@
 function donate(){
-
-}
+    document.location.href = "/client/pages/donate/donate.html"
+}   
 
 function home(){
     document.location.href = "/client/index.html"
@@ -11,7 +11,7 @@ function contact(){
 }
 
 function services(){
-
+    document.location.href = "/client/pages/services/services.html"
 }
 
 function signup(){

@@ -34,8 +34,8 @@
 
 .submit:hover{
     margin-bottom: 10vh;
-    margin-top: -1vh;
-    margin-left: -2vw;
+    margin-top: -0.5vh;
+    margin-left: -0.5vw;
     box-shadow: 5px 5px #963641;
 }
 
