@@ -5,14 +5,14 @@
 
 .welcome{
     line-height: 1.4em;
-    color: #ff243f;
+    color: #ff3352;
     font-size: 3cm;
     font-family: 'Josefin Sans', sans-serif;
 }
 
 h1{
     line-height: 1.4em;
-    color: #ff243f;
+    color: #ff3352;
     font-size: 2cm;
     font-family: 'Josefin Sans', sans-serif;
 }
@@ -34,7 +34,7 @@ p{
 
 p1{
     line-height: 1em;
-    color: #ff243f;
+    color: #ff3352;
     font-size: 1cm;
     font-family: 'Josefin Sans', sans-serif;
 }
@@ -61,7 +61,7 @@ p1{
     left: 0px;
     right: 0px;
     position: relative;
-    background-color: #ff243f;
+    background-color: #ff3352;
     text-align: center;
 }
 
@@ -70,7 +70,7 @@ p1{
     left: 0px;
     right: 0px;
     position: relative;
-    background-color: #ff243f;
+    background-color: #ff3352;
     text-align: center;
 }
 
@@ -122,11 +122,11 @@ body{
 }
 
 .headerbutton:hover{
-    background-color: #ff243f;
+    background-color: #ff3352;
 }
 
 .headerbutton:active{
-    background-color: #ff243f;
+    background-color: #ff3352;
 }
 
 .signup{

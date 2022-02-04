@@ -3,7 +3,7 @@
     margin-left: 20vw;
     margin-bottom: 9vh;
     margin-right: 20vw;
-    background-color: #ff243f;
+    background-color: #ff3352;
     padding: 5%;
     border-radius: 15px;
 }
@@ -21,7 +21,7 @@
     margin-bottom: 9vh;
     margin-left: 0vw;
     color:#fbfbfb;
-    background-color: #ff243f;
+    background-color: #ff3352;
     border: none;
     border-radius: 5px;
     font-size: 0.5cm;
@@ -36,14 +36,14 @@
     margin-bottom: 10vh;
     margin-top: -0.5vh;
     margin-left: -0.5vw;
-    box-shadow: 5px 5px #ff243f;
+    box-shadow: 5px 5px #ac4a56;
 }
 
 .submit:active{
     margin-bottom: s9vh;
     margin-top: 0vh;
     margin-left: 0vw;
-    box-shadow: 0px 0px #ff243f;
+    box-shadow: 0px 0px #ac4a56;
 }
 
 .message{
