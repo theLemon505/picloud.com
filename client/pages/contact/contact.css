@@ -3,7 +3,7 @@
     margin-left: 20vw;
     margin-bottom: 9vh;
     margin-right: 20vw;
-    background-color: #be4b59;
+    background-color: #ff243f;
     padding: 5%;
     border-radius: 15px;
 }
@@ -21,7 +21,7 @@
     margin-bottom: 9vh;
     margin-left: 0vw;
     color:#fbfbfb;
-    background-color: #be4b59;
+    background-color: #ff243f;
     border: none;
     border-radius: 5px;
     font-size: 0.5cm;
@@ -36,14 +36,14 @@
     margin-bottom: 10vh;
     margin-top: -0.5vh;
     margin-left: -0.5vw;
-    box-shadow: 5px 5px #963641;
+    box-shadow: 5px 5px #ff243f;
 }
 
 .submit:active{
-    margin-bottom: 9vh;
+    margin-bottom: s9vh;
     margin-top: 0vh;
     margin-left: 0vw;
-    box-shadow: 0px 0px #963641;
+    box-shadow: 0px 0px #ff243f;
 }
 
 .message{
